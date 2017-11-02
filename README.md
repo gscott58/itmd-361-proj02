@@ -1,2 +1,2 @@
-# itmd-361-proj02
-Initial Creation of ITMD-361-PROJ02 Repository 
+# itmd-361-proj01
+ITMD 361 Fundamentals of Web Development Proj01
